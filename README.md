@@ -162,7 +162,7 @@ python ./generate.py -o <options file> -c <CSV file>
 For example, you can run:
 
 ```sh
-python ./generate.py -o "../data/outputs/v1/options_file.json" -c "../data/test/evaluation.csv"
+python ./generate.py -o "../data/outputs/v1/options_file.json" -c "../data/test/evaluation.csv" -g
 ```
 
 ## Citation
